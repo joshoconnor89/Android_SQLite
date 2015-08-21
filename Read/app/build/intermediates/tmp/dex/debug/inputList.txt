@@ -1,0 +1,2 @@
+/Users/joshuaoconnor/AndroidStudioProjects/SqliteDemo_Read/app/build/intermediates/classes/debug
+/Users/joshuaoconnor/AndroidStudioProjects/SqliteDemo_Read/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-cf8f262095a7e61a2d703b58362d622fa178252a.jar
